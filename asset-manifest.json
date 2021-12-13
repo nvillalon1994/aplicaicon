@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/aplicaicon/static/css/main.1a2c1f7f.chunk.css",
-    "main.js": "/aplicaicon/static/js/main.487626bd.chunk.js",
-    "main.js.map": "/aplicaicon/static/js/main.487626bd.chunk.js.map",
-    "runtime-main.js": "/aplicaicon/static/js/runtime-main.28c94876.js",
-    "runtime-main.js.map": "/aplicaicon/static/js/runtime-main.28c94876.js.map",
-    "static/js/2.984ac4f3.chunk.js": "/aplicaicon/static/js/2.984ac4f3.chunk.js",
-    "static/js/2.984ac4f3.chunk.js.map": "/aplicaicon/static/js/2.984ac4f3.chunk.js.map",
-    "static/js/3.8ceacd23.chunk.js": "/aplicaicon/static/js/3.8ceacd23.chunk.js",
-    "static/js/3.8ceacd23.chunk.js.map": "/aplicaicon/static/js/3.8ceacd23.chunk.js.map",
+    "main.js": "/aplicaicon/static/js/main.7cfd80de.chunk.js",
+    "main.js.map": "/aplicaicon/static/js/main.7cfd80de.chunk.js.map",
+    "runtime-main.js": "/aplicaicon/static/js/runtime-main.dd40d2c5.js",
+    "runtime-main.js.map": "/aplicaicon/static/js/runtime-main.dd40d2c5.js.map",
+    "static/js/2.4b390b20.chunk.js": "/aplicaicon/static/js/2.4b390b20.chunk.js",
+    "static/js/2.4b390b20.chunk.js.map": "/aplicaicon/static/js/2.4b390b20.chunk.js.map",
+    "static/js/3.7f5fbc5f.chunk.js": "/aplicaicon/static/js/3.7f5fbc5f.chunk.js",
+    "static/js/3.7f5fbc5f.chunk.js.map": "/aplicaicon/static/js/3.7f5fbc5f.chunk.js.map",
     "index.html": "/aplicaicon/index.html",
     "static/css/main.1a2c1f7f.chunk.css.map": "/aplicaicon/static/css/main.1a2c1f7f.chunk.css.map",
-    "static/js/2.984ac4f3.chunk.js.LICENSE.txt": "/aplicaicon/static/js/2.984ac4f3.chunk.js.LICENSE.txt",
+    "static/js/2.4b390b20.chunk.js.LICENSE.txt": "/aplicaicon/static/js/2.4b390b20.chunk.js.LICENSE.txt",
     "static/media/a (1).edd7bce2.jfif": "/aplicaicon/static/media/a (1).edd7bce2.jfif",
     "static/media/a (2).65811051.jpg": "/aplicaicon/static/media/a (2).65811051.jpg",
     "static/media/a (3).54473af0.jpg": "/aplicaicon/static/media/a (3).54473af0.jpg",
@@ -27,9 +27,9 @@
     "static/media/remera2.1ede3bd6.jpg": "/aplicaicon/static/media/remera2.1ede3bd6.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.28c94876.js",
-    "static/js/2.984ac4f3.chunk.js",
+    "static/js/runtime-main.dd40d2c5.js",
+    "static/js/2.4b390b20.chunk.js",
     "static/css/main.1a2c1f7f.chunk.css",
-    "static/js/main.487626bd.chunk.js"
+    "static/js/main.7cfd80de.chunk.js"
   ]
 }
