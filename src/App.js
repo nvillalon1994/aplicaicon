@@ -1,23 +1,26 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import{Routes, Route} from 'react-router-dom'
+import ManShop from './ManShop'
+import WomanShop from'./WomanShop'
+import Home from './Home'
 
-function App() {
+export function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <h1>this is my app viste</h1>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      {/* <Routes>
+        <Route path ="" element={<Home/>}></Route>
+        <Route path="/ManShop.js" element={<ManShop/>}/>
+        <Route path="/WomanShop.js" element={<WomanShop/>}/>
+        
+
+      </Routes> */}
+      <Home></Home>
+      <ManShop></ManShop>
+      <WomanShop></WomanShop>
+     
+      
     </div>
-  );
+  )
 }
 
 export default App;
