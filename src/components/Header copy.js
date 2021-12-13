@@ -56,11 +56,11 @@ export default function Header(props) {
                 
                 <ul className="linksRopa">
                     <li className="linkRopa"><a href="./WomanShop.js">Woman</a></li>
-                    <li className="linkRopa"><a href="./ManShop.js">Man</a></li>
+                    <li className="linkRopa"><a href="https://nvillalon1994.github.io/ManShop/#carro">Man</a></li>
                     
                 </ul>
                 <div className="logo">
-                    <a className='imgLogo' href="/" ><img src={logo} alt="" /></a>
+                    <a className='imgLogo' href="https://nvillalon1994.github.io/aplicaicon/" ><img src={logo} alt="" /></a>
                 </div>
                 <ul className="carritoUsuario">
                     
