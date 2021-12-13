@@ -36,7 +36,7 @@ export default function App(props) {
   return (
     <div className="App">
         
-      {/* <Header countCartItems={cartItems.length}></Header> */}
+      <Header countCartItems={cartItems.length}></Header>
       <div className='productos'>
       
         <Main onAdd={onAdd} products ={products} onRemove={onRemove} ></Main>
