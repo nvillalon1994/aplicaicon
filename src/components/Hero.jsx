@@ -13,7 +13,7 @@ export default function Hero() {
                 </div>
                 <div className='contenedor'>
                     <img  className="imgHerowoman" src={remera2} alt="" />
-                    <a href="https://nvillalon1994.github.io/WomenShop/" target={"_blank"}><button className="boton ">Woman Shop</button></a>
+                    <a href="https://nvillalon1994.github.io/WomenShop/" ><button className="boton ">Woman Shop</button></a>
                 </div>
                 <div className='contenedor'>
                     <img className="imgHeroman" src={heroman2} alt="" />
