@@ -7,17 +7,17 @@ import Home from './Home'
 export function App() {
   return (
     <div>
-      {/* <Routes>
-        <Route path ="" element={<Home/>}></Route>
-        <Route path="/ManShop.js" element={<ManShop/>}/>
-        <Route path="/WomanShop.js" element={<WomanShop/>}/>
+      <Routes>
+        <Route path ="/aplicaicon" element={<Home/>}></Route>
+        <Route path="/aplicaicon/ManShop.js" element={<ManShop/>}/>
+        <Route path="/plicaicon/WomanShop.js" element={<WomanShop/>}/>
         
 
-      </Routes> */}
-      <Home></Home>
+      </Routes>
+      {/* <Home></Home>
       <ManShop></ManShop>
       <WomanShop></WomanShop>
-     
+      */}
       
     </div>
   )
