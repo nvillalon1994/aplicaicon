@@ -15,8 +15,7 @@ export function App() {
 
       </Routes> */}
       <Home></Home>
-      <ManShop></ManShop>
-      <WomanShop></WomanShop>
+      
      
       
     </div>
